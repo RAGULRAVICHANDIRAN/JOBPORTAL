@@ -1,0 +1,8 @@
+{
+  "name": "jobpilot",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd mobile && npm install && npm run build"
+  }
+}
