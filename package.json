@@ -2,7 +2,10 @@
   "name": "jobpilot",
   "private": true,
   "version": "1.0.0",
+  "workspaces": [
+    "mobile"
+  ],
   "scripts": {
-    "build": "cd mobile && npm install && npm run build"
+    "build": "npm run build --workspace=mobile"
   }
 }
