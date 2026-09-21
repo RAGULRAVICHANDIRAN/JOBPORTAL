@@ -1,0 +1,9 @@
+{
+  "appId": "com.jobpilot.app",
+  "appName": "JobPilot AI",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
